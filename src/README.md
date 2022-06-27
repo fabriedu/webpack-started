@@ -3,7 +3,8 @@
 Este es el proyecto inicial para crear aplicaciones utilizando WebPack.
 
 
-### Notas
+### Notas 
+
 
 Recuerden reconstruir los mòdulos de Node
 ```
